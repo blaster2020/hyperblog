@@ -1,1 +1,0 @@
-TeamViewer es una herramienta de control remoto que permite manejar a distancia el ordenador de un usuario que necesite asistencia técnica.
