@@ -41,7 +41,6 @@ body
     margin: 0 auto;
 }
 
-<<<<<<< HEAD
 #container h1
 {
     font-size: 20px;
@@ -51,7 +50,6 @@ body
     background: white;
     padding: 1em;
 }
-=======
 #footer{
     background: #777;
     color: white;
@@ -59,4 +57,4 @@ body
     padding: 0.5em;
 }
 
->>>>>>> footer
+
