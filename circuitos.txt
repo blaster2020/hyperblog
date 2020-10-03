@@ -4,11 +4,10 @@ Un circuito lineal, que consta de fuentes, componentes lineales (resistencias, c
 Aplicaciones industriales y domesticas, tales como electrodomesticos: lavadoras, equipos de sonido, tv, etc.
 Un circuito que tiene componentes electrónicos se denomina circuito electrónico. Generalmente, estas redes son no lineales y requieren diseños y herramientas de análisis mucho más complejos.
 
-<<<<<<< HEAD
 Master 1
 
 Master 2
-=======
+
 Experimento I
 Experimento II
->>>>>>> e3c0b36... experimento II
+
