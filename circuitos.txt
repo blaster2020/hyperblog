@@ -2,3 +2,4 @@
 
 Un circuito lineal, que consta de fuentes, componentes lineales (resistencias, condensadores, inductores) y elementos de distribución lineales (líneas de transmisión o cables), tiene la propiedad de la superposición lineal. Además, son más fáciles de analizar, usando métodos en el dominio de la frecuencia, para determinar su respuesta en corriente directa. Corriente alterna y directa.
 Aplicaciones industriales y domesticas, tales como electrodomesticos: lavadoras, equipos de sonido, tv, etc.
+Un circuito que tiene componentes electrónicos se denomina circuito electrónico. Generalmente, estas redes son no lineales y requieren diseños y herramientas de análisis mucho más complejos.
