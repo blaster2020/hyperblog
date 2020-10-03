@@ -1,4 +1,4 @@
-﻿Un circuito es una interconexión de componentes eléctricos (como baterías, resistores, inductores, condensadores, interruptores, transistores, entre otros) que transporta corriente eléctrica a través de por lo menos una trayectoria cerrada.
+﻿Un circuito es una interconexión de componentes eléctricos (como baterías, resistores, inductores, condensadores, interruptores, transistores, entre otros dispositivos por doquier) que transporta corriente eléctrica a través de por lo menos una trayectoria cerrada.
 
 Un circuito lineal, que consta de fuentes, componentes lineales (resistencias, condensadores, inductores) y elementos de distribución lineales (líneas de transmisión o cables), tiene la propiedad de la superposición lineal. Además, son más fáciles de analizar, usando métodos en el dominio de la frecuencia, para determinar su respuesta en corriente directa. Corriente alterna y directa.
 Aplicaciones industriales y domesticas, tales como electrodomesticos: lavadoras, equipos de sonido, tv, etc.
